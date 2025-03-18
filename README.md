@@ -1,7 +1,9 @@
 # RNA-seq-pipeline-P.putida-
-An RNA-seq pipeline aimed at differential gene expression analysis in Pseudomonas putida
+An RNA-seq pipeline aimed at differential gene expression analysis in Pseudomonas putida.
 
-This pipeline has been tested on Linux Mint 21.3
+This pipeline has been tested on Linux Mint 21.3. 
+Created by a bioinformatics student as part of a Master's thesis project. 
+The code isn't perfect, but it still gets the jobe done!
 
 Pipeline Structure:
 The directory contains multiple scripts for preprocessing raw sequencing data, numbered according to their execution order.
